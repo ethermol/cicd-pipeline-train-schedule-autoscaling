@@ -62,4 +62,5 @@ spec:
   - type: Resource
     resource:
       name: cpu
-      targetAverageUtilization: 50       periodSeconds: 10
+      targetAverageUtilization: 50
+      periodSeconds: 10
